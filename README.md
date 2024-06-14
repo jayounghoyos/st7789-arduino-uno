@@ -13,6 +13,7 @@ Este documento proporciona instrucciones sobre cómo conectar y configurar la pa
    - [Instalación de Drivers](#instalación-de-drivers-en-arduino-uno)
    - [Librerías Utilizadas](#librerías-utilizadas-en-arduino-uno)
    - [Conexiones](#conexiones-en-arduino-uno)
+   - [Imágenes de Conexiones](#imágenes-de-conexiones-en-arduino-uno)
    - [Tutorial de YouTube](#tutorial-de-youtube-en-arduino-uno)
 3. [Raspberry Pi 4](#raspberry-pi-4)
    - [Librerías Utilizadas](#librerías-utilizadas-en-raspberry-pi-4)
@@ -88,6 +89,13 @@ Conecta la pantalla ST7789 al Arduino Uno de la siguiente manera:
 | DC         | Pin 7           |
 
 **Nota:** Asegúrate de alimentar la pantalla ST7789 con 3.3V. Conectar a 5V puede dañar el display.
+
+### Imágenes de Conexiones en Arduino Uno
+
+![Conexión 1](./img/1.jpg)
+![Conexión 2](./img/2.jpg)
+![Conexión 3](./img/3.jpg)
+![Conexión 4](./img/4.jpg)
 
 ### Tutorial de YouTube en Arduino Uno
 
