@@ -48,10 +48,10 @@ Conecta la pantalla ST7789 al ESP32 de la siguiente manera:
 |------------|-----------|
 | VCC        | 3.3V      |
 | GND        | GND       |
-| SCL        | GPIO 18   |
-| SDA        | GPIO 23   |
-| RES        | GPIO 16   |
-| DC         | GPIO 17   |
+| SCL        | GPIO 13   |
+| SDA        | GPIO 11   |
+| RES        | GPIO 8    |
+| DC         | GPIO 7    |
 
 ### Tutorial de YouTube en ESP32
 
