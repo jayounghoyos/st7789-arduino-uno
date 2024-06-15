@@ -44,14 +44,14 @@ Para trabajar con la pantalla ST7789 en el ESP32, utilizaremos la librería `Ard
 
 Conecta la pantalla ST7789 al ESP32 de la siguiente manera:
 
-| Pin ST7789 | Pin ESP32 |
+| Pin ST7789 | Arduino   |
 |------------|-----------|
 | VCC        | 3.3V      |
 | GND        | GND       |
-| SCL        | GPIO 18   |
-| SDA        | GPIO 23   |
-| RES        | GPIO 16   |
-| DC         | GPIO 17   |
+| SCL        | GPIO 13   |
+| SDA        | GPIO 11   |
+| RES        | GPIO 8    |
+| DC         | GPIO 7    |
 
 ### Tutorial de YouTube en ESP32
 
